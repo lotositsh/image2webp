@@ -6,4 +6,6 @@ Searches for all images in a folder and converts them to a webp format with the 
 
 <=Python 3.7
 
-`pip install -r requirements.txt`
+```python
+pip install -r requirements.txt
+```
