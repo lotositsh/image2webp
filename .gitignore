@@ -5,10 +5,13 @@ __pycache__/
 
 # C extensions
 *.so
-
+charter2.jpg
+charter2.webp
+image.ico
 # Distribution / packaging
 .Python
 build/
+.idea
 develop-eggs/
 dist/
 downloads/
